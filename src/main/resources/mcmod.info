@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sillythings",
+  "name": "Silly Things",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thor12022"],
+  "credits": "The Forge and FML guys, for making the example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
